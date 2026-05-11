@@ -1,5 +1,3 @@
-package REcursionA;
-
 // Q)Count total paths in maze to move from (0,0) to (n,m).(Condition you can only move in right or down).
 
 public class CountPaths {
