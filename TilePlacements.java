@@ -1,5 +1,3 @@
-package REcursionA;
-
 public class TilePlacements {
     public static int printTiles(int n, int m){
         if(n == m){
