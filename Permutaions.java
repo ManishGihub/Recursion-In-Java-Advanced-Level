@@ -1,5 +1,3 @@
-package REcursionA;
-
 // Q)Write a program to print all the permutations of the string
 public class Permutaions {
     public static void printPermu(String str, String permutation){
