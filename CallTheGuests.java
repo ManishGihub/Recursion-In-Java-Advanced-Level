@@ -1,5 +1,3 @@
-package REcursionA;
-
 // Q) Find the no. of ways in which you can invite n people to your party, in single or pairs.
 public class CallTheGuests {
     public static int callGuests(int n){
