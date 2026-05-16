@@ -1,3 +1,5 @@
+//Q) Place the tiles of size 1Xm in a floor of size nXm
+
 public class TilePlacements {
     public static int printTiles(int n, int m){
         if(n == m){
